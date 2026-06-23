@@ -31,7 +31,7 @@ session_start();
         <div class="intro">
             <h1>Discover The World of Docs!</h1>
             <p>New platform to introduce unique genres of films to the world.</p>
-            <button><a href="recipes.html" style="color:black;">Explore!</a></button>
+            <button><a href="discover.html" style="color:black;">Explore!</a></button>
         </div>
 
         <div class="about-me">
